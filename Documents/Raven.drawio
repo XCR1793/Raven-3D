@@ -1,4 +1,53 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="3">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="4">
+  <diagram id="ydm_9wmG1MoZfnwv8v6f" name="Brainstorm">
+    <mxGraphModel dx="820" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gwhMM3s7mrPHOdrvY1Yq-1" target="gwhMM3s7mrPHOdrvY1Yq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gwhMM3s7mrPHOdrvY1Yq-1" target="gwhMM3s7mrPHOdrvY1Yq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gwhMM3s7mrPHOdrvY1Yq-1" target="gwhMM3s7mrPHOdrvY1Yq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-10" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gwhMM3s7mrPHOdrvY1Yq-1" target="gwhMM3s7mrPHOdrvY1Yq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gwhMM3s7mrPHOdrvY1Yq-1" target="gwhMM3s7mrPHOdrvY1Yq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="gwhMM3s7mrPHOdrvY1Yq-1" target="gwhMM3s7mrPHOdrvY1Yq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-1" value="As the Raven Motion system is designed for speed, a laser toolhead actually makes sense" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-2" value="The cooling system for the toolhead must be designed for extraction mode as well" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-4" value="The entire fabricator must be sealed (not hermetically sealed, but enough to prevent smoke)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-7" value="All panels must block wavelengths used by the laser toolhead" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-9" value="The build plate must either be interchangable between the FDM mode and laser cutter mode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-11" value="Fire safety is key, and multiple systems must be inplace to protect the user incase a fire breaks out" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gwhMM3s7mrPHOdrvY1Yq-13" value="Any and all components that could be in contact with fire must be heat resistant and noncombustible" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Overall" id="1koTbxVyu0m_SG0vViTK">
     <mxGraphModel dx="2050" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -303,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZsW1-ER_KbNpetLqzkXc" name="Print Head">
-    <mxGraphModel dx="820" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
