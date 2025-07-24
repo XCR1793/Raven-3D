@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4" pages="5">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6" pages="7">
   <diagram id="Po2pCZQetynPa6UtJCph" name="Wants">
     <mxGraphModel dx="820" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="260" pageHeight="320" math="0" shadow="0">
       <root>
@@ -711,13 +711,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OiA_orzk-QY-v_jqonAN-2" value="Mains" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="80" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-1" target="r0R5Vf6ob6lBCM13Jf7Z-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-1" value="Fuse" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-3" target="r0R5Vf6ob6lBCM13Jf7Z-5">
           <mxGeometry relative="1" as="geometry" />
@@ -728,8 +728,11 @@
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-3" target="r0R5Vf6ob6lBCM13Jf7Z-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="At9oFmIz7D68EmBclFuN-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-3" target="At9oFmIz7D68EmBclFuN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-3" value="RCBO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-5" target="r0R5Vf6ob6lBCM13Jf7Z-15">
           <mxGeometry relative="1" as="geometry" />
@@ -738,7 +741,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-5" value="24V PSU" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="660" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-6" target="r0R5Vf6ob6lBCM13Jf7Z-9">
           <mxGeometry relative="1" as="geometry" />
@@ -762,25 +765,275 @@
           <mxGeometry x="560" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-15" value="Octopus Board" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="660" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-19" value="Tool Head Board" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="720" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="660" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-21" target="r0R5Vf6ob6lBCM13Jf7Z-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-21" value="240VAC" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="r0R5Vf6ob6lBCM13Jf7Z-23" target="r0R5Vf6ob6lBCM13Jf7Z-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-23" value="Solid State Relay" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0R5Vf6ob6lBCM13Jf7Z-26" value="Silicone Heater Bed" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="680" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At9oFmIz7D68EmBclFuN-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="At9oFmIz7D68EmBclFuN-1" target="At9oFmIz7D68EmBclFuN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="At9oFmIz7D68EmBclFuN-1" value="12V PSU" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At9oFmIz7D68EmBclFuN-3" value="Tool Head&lt;div&gt;(Laser)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O3GB9vLRmS4S8nF1pejX" name="Electrical Connections">
+    <mxGraphModel dx="1171" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fEDaqC3TC48Wg_1N2ghJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="80" y="560" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="40" as="sourcePoint" />
+            <mxPoint x="40" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="840" />
+              <mxPoint x="840" y="840" />
+              <mxPoint x="840" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="80" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="800" />
+              <mxPoint x="800" y="800" />
+              <mxPoint x="800" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-13" value="BTT Octopus Board" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="550" y="220" width="90" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-14" value="24V 10A PSU" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="100" y="200" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-15" value="12V 10A PSU" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="210" y="220" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BpeWPLZ19Ggrdlkp2obp-16" value="5V 15A PSU" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VdcT7rHedgStK5324Pxx-1" value="Solid State Relay" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="460" y="270" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qsunbHQi6X2DMcBwPs7_-1" value="Raspberry Pi 5" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="700" y="255" width="60" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="s2L3zpR2vOEe-dt8t7gV" name="Hot Swap System">
+    <mxGraphModel dx="2563" dy="1541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-10" value="Scan USB Port" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-4" target="-mPA7b6Gl2Vu2mSK-v53-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-4" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-5" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-6" value="Host Board" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-7" value="Tool Head" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-32" value="Device Name Has Config Data" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-8" target="-mPA7b6Gl2Vu2mSK-v53-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-8" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-9" value="USB Connection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-12" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-19" value="Parse USB Device Name" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-13" target="-mPA7b6Gl2Vu2mSK-v53-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-13" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Query USB Device Name&lt;/span&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-14" target="-mPA7b6Gl2Vu2mSK-v53-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-14" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-24" value="Check if Device Config Matches Parsed Name" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-20" target="-mPA7b6Gl2Vu2mSK-v53-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-20" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-21" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-28" value="If Device Config Exists, Select Config &amp;amp; Restart Klipper" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-22" target="-mPA7b6Gl2Vu2mSK-v53-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-22" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-23" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-31" value="Check if Klipper Config Matches Device" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-25" target="-mPA7b6Gl2Vu2mSK-v53-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-25" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-26" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-29" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-34" value="Attempt to Connect to Tool" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-30" target="-mPA7b6Gl2Vu2mSK-v53-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-30" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-38" value="Attempt to Connect to Host" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-33" target="-mPA7b6Gl2Vu2mSK-v53-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-33" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-39" value="Attempt to Connect to Host" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-35" target="-mPA7b6Gl2Vu2mSK-v53-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-35" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-45" value="If Connected then No Error, If Not then Display Error" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-36" target="-mPA7b6Gl2Vu2mSK-v53-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-36" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-37" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-42" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="660" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-43" value="Klipper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-47" value="USB Device Name (String)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-50" value="Board Type" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;container=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-51" value="Extruder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-50">
+          <mxGeometry y="20" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-52" value="Laser" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-50">
+          <mxGeometry y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-59" value="System Name" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;container=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-60" value="EG: STD Extruder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-59">
+          <mxGeometry y="20" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-61" value="EG: STD Switching Extruder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-59">
+          <mxGeometry y="40" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-67" value="EG: Laser 40W" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-59">
+          <mxGeometry y="60" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-68" value="EG: Laser 80W" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-59">
+          <mxGeometry y="80" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-66" value="Klipper Firmware UUID" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-74" value="System Model Number" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;container=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="120" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-75" value="EG: D1V20.5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-74">
+          <mxGeometry y="20" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-78" value="EXP: D = Design" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-74">
+          <mxGeometry y="40" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-79" value="EXP: V = Version" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-74">
+          <mxGeometry y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-80" value="EXP: .xx = Compatible Versions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-74">
+          <mxGeometry y="80" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-81" value="Example: 6948-STD Switching Extruder-D3V1.6" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-97" value="Overrides toolhead.cfg file according to tool detection" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-89" target="-mPA7b6Gl2Vu2mSK-v53-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-89" value="Folder of Tool Heads" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;container=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-90" value="6948-STD Switching Extruder-D3V1.6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-89">
+          <mxGeometry y="20" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-91" value="1954-EXT Hotend-D2V2.0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-89">
+          <mxGeometry y="40" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-92" value="9584-STD Laser 40W-D1V1.8" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-mPA7b6Gl2Vu2mSK-v53-89">
+          <mxGeometry y="60" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-93" value="printer.cfg" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-95" value="[include toolhead.cfg]" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="-mPA7b6Gl2Vu2mSK-v53-94" target="-mPA7b6Gl2Vu2mSK-v53-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mPA7b6Gl2Vu2mSK-v53-94" value="toolhead.cfg" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="340" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
